@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 3
+    },
+    "auditLog": "/home/pi/fesaIoT/CanBus/e2i-canbus-test-reading/candumps/2024/octubre/.521e41f6f1e1d85fff60a90cc3d5b45e48c9af8f-audit.json",
+    "files": [
+        {
+            "date": 1729485913478,
+            "name": "/home/pi/fesaIoT/CanBus/e2i-canbus-test-reading/candumps/2024/octubre/20241020.log",
+            "hash": "219091d8ab90dff0333027f6e49e2236e441678033353ff424cca001742e5100"
+        },
+        {
+            "date": 1729515319243,
+            "name": "/home/pi/fesaIoT/CanBus/e2i-canbus-test-reading/candumps/2024/octubre/20241021.log",
+            "hash": "c00135a926aa136bcf65a9ed6b37b9fe1f6060cbd905693ec2ef4368b8db77fa"
+        },
+        {
+            "date": 1729700987089,
+            "name": "/home/pi/fesaIoT/CanBus/e2i-canbus-test-reading/candumps/2024/octubre/20241023.log",
+            "hash": "7e8ac01807691798af15f741ed2ef6bd3bc3582ef363e7ddaf1ad424f28fd575"
+        }
+    ],
+    "hashType": "sha256"
+}
